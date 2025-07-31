@@ -47,6 +47,46 @@ _N/A – No authentication required. This is a public UI demo._
 
 ## 📁 Folder Structure
 
+my-app/
+├── dist/                   # Production build output
+│   ├── assets/
+│   └── index.html
+├── node_modules/           # Project dependencies
+├── public/                 # Static public assets
+├── screenshots/            # Preview images for README
+│   ├── desktop1.png
+│   ├── desktop2.png
+│   ├── desktop3.png
+│   ├── mobile1.png
+│   └── mobile2.png
+├── src/                    # Application source code
+│   ├── assets/             # Images and static assets
+│   ├── components/         # Reusable UI components
+│   │   ├── Header.jsx
+│   │   ├── Layout.jsx
+│   │   ├── Sidebar.jsx
+│   │   └── ThemeDropdown.jsx
+│   ├── context/            # React Context API
+│   │   └── ThemeContext.jsx
+│   ├── pages/              # Route pages
+│   │   ├── About.jsx
+│   │   ├── Contact.jsx
+│   │   └── Home.jsx
+│   ├── routes/             # Routing configuration
+│   │   └── AppRoutes.jsx
+│   ├── styles/             # Theme and global styles
+│   │   ├── themes.jsx
+│   │   ├── App.css
+│   │   └── index.css
+│   ├── App.jsx
+│   └── main.jsx
+├── .gitignore
+├── index.html              # Fallback for Vite
+├── package.json
+├── package-lock.json
+├── vite.config.js
+├── eslint.config.js
+└── README.md
 
 ---
 

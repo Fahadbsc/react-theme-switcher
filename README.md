@@ -45,7 +45,7 @@ _N/A – No authentication required. This is a public UI demo._
 
 ---
 
-## 📁 Folder Structure
+
 ## 📁 Project Folder Structure
 
 my-app/

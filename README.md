@@ -3,7 +3,7 @@
 This is a responsive React application with support for multiple themes (Light, Dark, Custom). It uses Context API for theme management, React Router for page navigation, and is fully mobile-friendly.
 
 ## 🚀 Live Demo
-[https://your-live-url.vercel.app](https://your-live-url.vercel.app)
+[dazzling-quokka-54778b.netlify.app](https://dazzling-quokka-54778b.netlify.app/)]
 
 ---
 
@@ -11,7 +11,10 @@ This is a responsive React application with support for multiple themes (Light, 
 
 | Desktop View | Mobile View |
 |--------------|-------------|
-| ![Desktop](./screenshots/desktop.png) | ![Mobile](./screenshots/mobile.png) |
+| ![Desktop](./screenshots/desktop1.png) | ![Mobile](./screenshots/mobile1.png) |
+| ![Desktop](./screenshots/desktop2.png) | ![Mobile](./screenshots/mobile2.png) |
+| ![Desktop](./screenshots/desktop3.png) |  
+
 
 ---
 
@@ -72,9 +75,9 @@ Author
 ---
 
 :
-- Replace **`Fahadbsc`
-- Replace **``
-- Replace **`Fahad F`
+-`Fahadbsc`
+- **`[dazzling-quokka-54778b.netlify.app](https://dazzling-quokka-54778b.netlify.app/)]`
+-`Fahad F`
 
 ---
 
